@@ -1,0 +1,12 @@
+[
+  {
+    "image_id": "img_0001",
+    "path": "img_0001.png",
+    "subset": "object"
+  },
+  {
+    "image_id": "img_0002",
+    "path": "img_0002.png",
+    "subset": "phrase"
+  }
+]
